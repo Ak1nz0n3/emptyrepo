@@ -1,1 +1,2 @@
 This is the first line in the first version
+This is the 3rd line in my document which has 2 versions at them moment
